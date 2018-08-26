@@ -194,7 +194,7 @@ class SPForm  extends React.Component{
             <TextField
                     id="read-only-input"
                     label="Approvers"
-                    defaultValue="Manish, Matt,Abhi, Jason, Naina Kelly and PwC Owners"
+                    defaultValue=""
                     className={classes.textField}
                     InputProps={{
                         readOnly: true,
